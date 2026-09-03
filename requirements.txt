@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+joblib
+pandasai
+langchain
+openai
+streamlit-aggrid
+streamlit-option-menu
